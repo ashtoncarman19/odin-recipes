@@ -1,1 +1,0 @@
-This is my first project on The Odin Project and I will be creating a recipe website but it won't look that pretty. 
