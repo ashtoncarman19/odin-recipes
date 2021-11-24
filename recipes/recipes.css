@@ -7,3 +7,10 @@ ol{
 html{
     text-align: center;
 }
+.instructions{
+    border: 2px red solid;
+}
+.redirect{
+    color: purple;
+    background-color: salmon;
+}
